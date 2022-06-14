@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DoctorThanatos
 - 👀 I’m interested in Game Design: Specifically UI/UX, QA Testing, and Map Design
 - 🌱 I’m currently learning all about the Game Design Process from programming, design, and testing projects.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me williamskm44@gmail.com
 
 <!---
